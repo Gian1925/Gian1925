@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gian1925
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java language
+- 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me gmail: gioangelotabo77@gmail.com
 
